@@ -1,0 +1,2 @@
+# ngex-magazzino
+Angular Exercise
